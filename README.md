@@ -20,7 +20,7 @@ Also, be sure to have `git` available in your PATH, `pnpm` might need it (You ca
       $ sudo apt install pnpm
 
 - #### Other Operating Systems
-  You can find more information about the installation on the [official Node.js website](https://nodejs.org/) and the [official NPM website](https://pnpm.io/installation).
+  You can find more information about the installation on the [official Node.js website](https://nodejs.org/) and the [official PNPM website](https://pnpm.io/installation).
 
 If the installation was successful, you should be able to run the following command.
 
